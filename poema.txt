@@ -1,0 +1,3 @@
+Guarda el cambio: commit, un sello en la versión. La rama es un desvío, merge trae la unión.
+
+El caos ya no existe, solo orden y control.
