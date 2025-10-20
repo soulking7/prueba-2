@@ -1,0 +1,2 @@
+print("olamaikosdeyutu")
+print("sexo")
