@@ -1,1 +1,0 @@
-print("Esta rezando la ericka por el bien de todos los pajaritos")
